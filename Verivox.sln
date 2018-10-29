@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verivox.Tests", "Verivox.Tests\Verivox.Tests.csproj", "{FCE69D31-1E1A-4D0F-9929-D4139F9C51CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verivox.Library", "Verivox.Library\Verivox.Library.csproj", "{78351CBB-58C5-49B7-97B9-01E1A1CC3A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE69D31-1E1A-4D0F-9929-D4139F9C51CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE69D31-1E1A-4D0F-9929-D4139F9C51CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE69D31-1E1A-4D0F-9929-D4139F9C51CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE69D31-1E1A-4D0F-9929-D4139F9C51CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78351CBB-58C5-49B7-97B9-01E1A1CC3A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78351CBB-58C5-49B7-97B9-01E1A1CC3A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78351CBB-58C5-49B7-97B9-01E1A1CC3A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78351CBB-58C5-49B7-97B9-01E1A1CC3A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B12E453-8F82-4211-9E26-2E107322E957}
+	EndGlobalSection
+EndGlobal
